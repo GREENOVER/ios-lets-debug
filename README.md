@@ -1,13 +1,13 @@
 # LLDB For Debugging
-## 앱 개발 시 디버깅을 위해 LLDB 명령어 사용을 통한 학습 및 테스트
-
-### 참고 WWDC 세션 힌트
+### 앱 개발 시 디버깅을 위해 LLDB 명령어 사용을 통한 학습 및 테스트
+***
+#### 참고 WWDC 세션 힌트
 * Debugging Tips and Tricks
 * Debugging with Xcode 9
 * Visual Debugging with Xcode
 * LLDB: Beyond "po"
 
-### Questions
+#### Questions
 - ViewController.swift 파일의 23번째 줄에 브레이크 포인트를 설정하려면 입력해야 하는 LLDB 명령어는?
    - breakpoint set --file ViewController.swift --line 23
 - `changeTextColor`라는 심볼에 브레이크 포인트를 설정하기 위해 입력해야 하는 LLDB 명령어는? 
